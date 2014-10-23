@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WariV1</string>
+    <string name="topTextViewContents">Welcome to Wari!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="player1Side">"Player 1: "</string>
+    <string name="p1Win">0</string>
+    <string name="player2Side">"Player 2: "</string>
+    <string name="p2Win">0</string>
+
+    <string name="p1cup1">Cup 1</string>
+    <string name="p1cup2">Cup 2</string>
+    <string name="p1cup3">Cup 3</string>
+    <string name="p1cup4">Cup 4</string>
+    <string name="p1cup5">Cup 5</string>
+    <string name="p1cup6">Cup 6</string>
+
+    <string name="p2cup1">Cup 1</string>
+    <string name="p2cup2">Cup 2</string>
+    <string name="p2cup3">Cup 3</string>
+    <string name="p2cup4">Cup 4</string>
+    <string name="p2cup5">Cup 5</string>
+    <string name="p2cup6">Cup 6</string>
+
+    <string name="p1c0">4</string>
+    <string name="p1c1">4</string>
+    <string name="p1c2">4</string>
+    <string name="p1c3">4</string>
+    <string name="p1c4">4</string>
+    <string name="p1c5">4</string>
+    <string name="p2c6">4</string>
+    <string name="p2c7">4</string>
+    <string name="p2c8">4</string>
+    <string name="p2c9">4</string>
+    <string name="p2c10">4</string>
+    <string name="p2c11">4</string>
+
+</resources>
